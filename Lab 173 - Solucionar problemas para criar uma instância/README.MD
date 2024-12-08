@@ -38,7 +38,7 @@ Criar uma instância EC2 configurada com os seguintes serviços:
 ![Hello Server](hello.png)
 
 ### **EC2 Cafe Server**
-![EC2 Cafe Server](ec2Cafeserver.png)
+![EC2 Cafe Server](ec2CafeServer.png)
 
 ### **Cafe Server**
 ![Cafe Server](cafeserver.png)
