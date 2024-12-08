@@ -29,10 +29,10 @@ Criar uma instância EC2 configurada com os seguintes serviços:
 ## 🖼️ **Imagens do Processo**
 
 ### **Diagrama de Arquitetura**
-![Architecture](architecture.png)
+![Architecture](Architecture.png)
 
 ### **Script de Configuração**
-![Script](script.png)
+![Script](Script.png)
 
 ### **Resultado do Ambiente - Página Hello Server**
 ![Hello Server](hello.png)
